@@ -1,5 +1,15 @@
 package com.example;
 
+/**
+ * GameLogic class to handle the game rules and logic
+ * 
+ * @author Oumaima KAMMAH
+ * 
+ *         Methods:
+ *         - checkWin(String player) : check if the specified player has won
+ *         - playAI() : make a move for the AI player
+ */
+
 public class GameLogic {
     private GameBoard gameBoard;
 

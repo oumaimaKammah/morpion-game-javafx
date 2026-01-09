@@ -17,7 +17,7 @@ package com.example;
  *         full
  *         - isBoardFull() : check if the board is full
  */
-class GameBoard {
+public class GameBoard {
     private final String[][] board = new String[3][3];
 
     public GameBoard() {

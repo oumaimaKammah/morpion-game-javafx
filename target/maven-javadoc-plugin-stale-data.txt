@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/iamar/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar;C:/Users/iamar/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21-win.jar;C:/Users/iamar/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar;C:/Users/iamar/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21-win.jar;C:/Users/iamar/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar;C:/Users/iamar/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21-win.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/iamar/Desktop/Projects/morpion/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/iamar/Desktop/Projects/morpion/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'morpion 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'morpion 1.0-SNAPSHOT API'
+com.example
+C:\Users\iamar\.m2\repository\org\openjfx\javafx-controls\21\javafx-controls-21.jar = 1767733042415
+C:\Users\iamar\.m2\repository\org\openjfx\javafx-controls\21\javafx-controls-21-win.jar = 1767733043014
+C:\Users\iamar\.m2\repository\org\openjfx\javafx-graphics\21\javafx-graphics-21.jar = 1767733042497
+C:\Users\iamar\.m2\repository\org\openjfx\javafx-graphics\21\javafx-graphics-21-win.jar = 1767733043384
+C:\Users\iamar\.m2\repository\org\openjfx\javafx-base\21\javafx-base-21.jar = 1767733042569
+C:\Users\iamar\.m2\repository\org\openjfx\javafx-base\21\javafx-base-21-win.jar = 1767733042767
+C:\Users\iamar\Desktop\Projects\morpion\src\main\java = 1767732748403
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\allclasses-index.html = 1767970612012
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\allpackages-index.html = 1767970612021
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\element-list = 1767970611838
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\help-doc.html = 1767970612110
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\index-all.html = 1767970612087
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\index.html = 1767970612094
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\jquery-ui.overrides.css = 1767970612172
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\member-search-index.js = 1767970612044
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\module-search-index.js = 1767970612026
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\overview-tree.html = 1767970611973
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\package-search-index.js = 1767970612032
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\script.js = 1767970612124
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\search.js = 1767970612132
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\stylesheet.css = 1767970612118
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\tag-search-index.js = 1767970612049
+C:\Users\iamar\Desktop\Projects\morpion\target\reports\apidocs\type-search-index.js = 1767970612037

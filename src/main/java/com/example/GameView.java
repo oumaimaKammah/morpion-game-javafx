@@ -8,6 +8,26 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 
+/**
+ * GameView class to manage the UI of the Tic-Tac-Toe game
+ * 
+ * @author Oumaima KAMMAH
+ * 
+ *         Methods:
+ *         - handlePlayerMove(int row, int col) : handle the player's move at
+ *         (row, col)
+ *         - handelAiMove() : handle the AI's move
+ *         - refreshUI() : refresh the UI to reflect the current state of the
+ *         board
+ *         - setStatusLabel(Label statusLabel) : set the status label to display
+ *         messages
+ *         - updateStatusLabel(String message) : update the status label with a
+ *         new message
+ *         - disableBoard() : disable all buttons on the game board
+ *         - enableBoard() : enable all buttons on the game board
+ *         - resetBoard() : reset the game board to start a new game
+ */
+
 public class GameView extends GridPane {
 
     private final Button[][] buttonCells = new Button[3][3];
