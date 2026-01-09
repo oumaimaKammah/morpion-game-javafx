@@ -6,6 +6,15 @@ The project demonstrates strong Object-Oriented Programming (OOP) through clear 
 The game board is managed by **GameBoard**, the win logic is handled by **GameLogic**, and the user interface is implemented in **GameView**.  
 It also includes JUnit 5 unit tests, full JavaDoc documentation, and a GitHub Pages deployment for easy access.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="src/assets/Ai win.jpg" alt="AI wins" width="300" style="margin-right: 20px;">&nbsp;&nbsp;&nbsp;
+  <img src="src/assets/player X win.jpg" alt="Player X wins" width="300">&nbsp;&nbsp;&nbsp;
+  <img src="src/assets/Match nul.jpg" alt="Player X wins" width="300">
+</p>
+
+
 
 ---
 
